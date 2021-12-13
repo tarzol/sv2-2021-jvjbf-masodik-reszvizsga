@@ -10,7 +10,6 @@ import java.util.List;
 public class HumanFileManager {
 
     private List<Human> humanList = new ArrayList<>();
-    List<Human> maleList = new ArrayList<>();
 
     public List<String> getHumans() {
         return null;

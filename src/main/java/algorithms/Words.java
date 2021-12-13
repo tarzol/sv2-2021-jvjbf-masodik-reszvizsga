@@ -28,9 +28,7 @@ public class Words {
     public boolean isThereAWordTwice() {
 
         for ( int i = 0; i<wordsOfList.size(); i++) {
-            /*if ( wordsOfList.get)) {
 
-            }*/
         }
         return false;
     }
